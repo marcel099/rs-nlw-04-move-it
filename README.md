@@ -16,6 +16,7 @@
 * [Índice](#índice)
 * [Sobre](#sobre)
   * [Conceito](#conceito)
+  * [Tecnologias](#principais-tecnologias-utilizadas)
 * [Licença](#licença)
 
 ## Sobre
@@ -27,6 +28,14 @@ O projeto foi desenvolvido na trilha React da quarta edição do evento Next Lev
 O Move.it é um site com vários desafios para movimentar o corpo dentro de intervalos durante longas jornadas sentado; seja estudando, seja trabalhando. Esses intervalos seguem a [Técnica Pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro). Com isso, seu corpo se mantém saudável e forte.
 
 Conforme você realiza os desafios você vai ganhando experiência e atinge novos níveis. Bora se exercitar?
+
+### Principais tecnologias utilizadas
+
+O sistema foi desenvolvido em TypeScript. É composto de 3 partes:
+
+- [Next](https://nextjs.org/)
+- [React](https://react.dev/)
+- [JavaScript Cookie](https://www.npmjs.com/package/js-cookie)
 
 ## Licença
 
