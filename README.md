@@ -17,6 +17,7 @@
 * [Sobre](#sobre)
   * [Conceito](#conceito)
   * [Tecnologias](#principais-tecnologias-utilizadas)
+* [Instalação local](#instalação-local)
 * [Licença](#licença)
 
 ## Sobre
@@ -36,6 +37,10 @@ O sistema foi desenvolvido em TypeScript. É composto de 3 partes:
 - [Next](https://nextjs.org/)
 - [React](https://react.dev/)
 - [JavaScript Cookie](https://www.npmjs.com/package/js-cookie)
+
+## Instalação local
+
+Passos para atingir isso podem ser conferidos <a href="./INSTALLATION.md">neste arquivo</a>.
 
 ## Licença
 
