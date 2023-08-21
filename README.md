@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="A imagem contém um notebook com uma telas do site" title="Banner do projeto Move It" src="./assets/screenshots/banner.png" />
+</h1>
+
 <h4 align="center"> 
   Next Level Week #04 - Move.it
 </h4>
@@ -29,6 +33,12 @@ O projeto foi desenvolvido na trilha React da quarta edição do evento Next Lev
 O Move.it é um site com vários desafios para movimentar o corpo dentro de intervalos durante longas jornadas sentado; seja estudando, seja trabalhando. Esses intervalos seguem a [Técnica Pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro). Com isso, seu corpo se mantém saudável e forte.
 
 Conforme você realiza os desafios você vai ganhando experiência e atinge novos níveis. Bora se exercitar?
+
+<div align="center">
+  <img title="Tela com contador regressivo não iniciado" src="./assets/screenshots/new_cycle_screen.png" width="70%" />
+  <img title="Tela com contador regressivo em andamento" src="./assets/screenshots/ongoing_cycle_screen.png" width="70%" />
+  <img title="Tela com contador regressivo finalizado e novo exercício apresentado" src="./assets/screenshots/finished_cycle_screen.png" width="70%" />
+</div>
 
 ### Principais tecnologias utilizadas
 
