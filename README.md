@@ -43,7 +43,7 @@ Conforme você realiza os desafios você vai ganhando experiência e atinge novo
 
 ### Principais tecnologias utilizadas
 
-O sistema foi desenvolvido em TypeScript. É composto de 3 partes:
+O sistema foi desenvolvido em TypeScript. Dentre as tecnologias utilizadas, destaco:
 
 - [Next](https://nextjs.org/)
 - [React](https://react.dev/)
