@@ -47,6 +47,7 @@ O sistema foi desenvolvido em TypeScript. Dentre as tecnologias utilizadas, dest
 
 - [Next](https://nextjs.org/)
 - [React](https://react.dev/)
+- [Next CSS Modules](https://nextjs.org/docs/app/building-your-application/styling/css-modules)
 - [JavaScript Cookie](https://www.npmjs.com/package/js-cookie)
 
 ## Instalação local
